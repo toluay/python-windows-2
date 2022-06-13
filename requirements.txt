@@ -1,1 +1,2 @@
-django==10.0.4
+python==3.6
+django==3.0.4
